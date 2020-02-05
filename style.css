@@ -1,0 +1,37 @@
+.navbar-nav>li:hover {
+  background: #a7a5a5;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background-image: url("https://source.unsplash.com/Yr4n8O_3UPc");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#content {
+  text-align: center;
+  padding-top: 11%;
+  color: rgb(238, 236, 236);
+  text-shadow: 0px 4px 3px red,
+               0px 8px 13px orange,
+               0px 18px 23px yellow;
+}
+
+h1 {
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+hr {
+  width: 400px;
+  border-top: 2px #3d3d3b;
+  border-bottom: 2px #3d3d3b;
+}
+
+button {
+  width: 200px;
+}
